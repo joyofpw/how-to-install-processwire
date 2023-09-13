@@ -1,6 +1,10 @@
 # How to Install ProcessWire
 *ProcessWire* installation is quite simple. There are various ways to get the latest release like traditional downloading, *git*, using [https://wireshell.pw/](https://wireshell.pw/), [http://grab.pw](http://grab.pw) or with [https://getcomposer.org](https://getcomposer.org). Since the more straightforward way is the traditional downloading we will use that method.
 
+## Additional Info
+- [ProcessWire's Core Concepts](CONCEPTS.md)
+- [Why and When use ProcessWire?](WHY.md)
+
 ## Downloading the Latest Version
 You must go to [https://processwire.com/download/](https://processwire.com/download/) and select the current version thats more suitable for your needs. The current 3.x version as the time of writing is *3.0.61*.
 
