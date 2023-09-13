@@ -1,4 +1,4 @@
-
+# How to Install ProcessWire
 *ProcessWire* installation is quite simple. There are various ways to get the latest release like traditional downloading, *git*, using [https://wireshell.pw/](https://wireshell.pw/), [http://grab.pw](http://grab.pw) or with [https://getcomposer.org](https://getcomposer.org). Since the more straightforward way is the traditional downloading we will use that method.
 
 ## Downloading the Latest Version
@@ -261,3 +261,5 @@ The installation of a typical *ProcessWire* system is easy and short. There are 
 
 #### Special Thanks
 I want to thank *fbg13* for it's corrections in the PW Forums :) 
+
+Made with <i class="fa fa-heart">&#9829;</i> by <a href="https://ninjas.cl" target="_blank">Ninjas.cl</a>.
